@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
   <h1 align="center">Hola😉,Yo soy Jose Davila</h1>
     <h3 align="center">
-      Recién termine mi carrera académicamente, con una 
+      Recién termine mi carrera, con una 
       fuerte pasión por el desarrollo Frontend. Estoy buscando 
       una oportunidad en un entorno dinámico donde pueda 
       aplicar mis habilidades y seguir aprendiendo...
